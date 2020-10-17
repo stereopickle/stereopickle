@@ -1,5 +1,5 @@
 ### Welcome to my GitHub! 
-Hello, my name is Eunjoo Byeon, a Data Scientist and ML Engineer with a background in visual design and cognitive science. I'm interested in using data to learn how we know and perceive things the way we do.
+Hello, my name is Eunjoo Byeon, a Data Scientist and ML Engineer with a background in visual design and cognitive science research. I'm interested in using data to learn how we know and perceive things the way we do.
 
 ---
 

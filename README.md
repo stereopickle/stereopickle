@@ -5,3 +5,7 @@ Hello, my name is Eunjoo Byeon, a Data Scientist and ML Engineer with a backgrou
 
 ### Connect with me! @stereopickle   
 [![Medium](PNG/Monogram.png)](https://medium.com/@stereopickle) [![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/stereopickle) [![LinkedIn](PNG/LI-In-Bug.png)](https://www.linkedin.com/in/stereopickle/) 
+
+### Dashboard
+For data visualization/dashboard project(s), please check my tableau public.
+**TABLEAU** (https://public.tableau.com/profile/eunjoo.byeon#!/)

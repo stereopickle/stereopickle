@@ -8,4 +8,4 @@ Hello, my name is Eunjoo Byeon, a Data Scientist and ML Engineer with a backgrou
 
 ### Dashboard
 For data visualization/dashboard project(s), please check my tableau public.  
-**TABLEAU** (https://public.tableau.com/profile/eunjoo.byeon#!/)
+[**TABLEAU**](https://public.tableau.com/profile/eunjoo.byeon#!/)

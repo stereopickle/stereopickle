@@ -11,5 +11,5 @@ For data visualization/dashboard project(s), please check out my tableau page.
 [**TABLEAU**](https://public.tableau.com/profile/eunjoo.byeon#!/)
 
 #### Gist
-For my code snippets, go to my gist.
-[**Gist**](https://gist.github.com/stereopickle)
+For my code snippets, go to my gist.  
+[**GIST**](https://gist.github.com/stereopickle)

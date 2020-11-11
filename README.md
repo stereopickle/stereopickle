@@ -8,6 +8,6 @@ Hello, my name is Eunjoo Byeon, a Data Scientist and ML Engineer with a backgrou
 
 ---
 
-**Dashboard**  |  For data visualization/dashboard project(s), please check out my [tableau](https://public.tableau.com/profile/eunjoo.byeon#!/) page.   
-**Gist**  |  For my code snippets, go to my [gist](https://gist.github.com/stereopickle).   
-**Design**  |  For infographics and graphic design work, visit [stereopickle](https://stereopickle.com). 
+- **Dashboard**  |  For data visualization/dashboard project(s), please check out my [tableau](https://public.tableau.com/profile/eunjoo.byeon#!/) page.   
+- **Gist**  |  For my code snippets, go to my [gist](https://gist.github.com/stereopickle).   
+- **Design**  |  For infographics and graphic design work, visit [stereopickle](https://stereopickle.com). 

@@ -4,13 +4,14 @@ Hello, my name is Eunjoo Byeon, a Data Scientist, Designer, Programmer and Resea
 ---
 
 ### Check out my blogs
-I'm a firm believe of lifelong learning and I love sharing what I know with many others. Please check out my Data Science blogs at [![Medium](PNG/Monogram.png)](https://medium.com/@stereopickle)
+I'm a firm believe of lifelong learning and I love sharing what I know with others. Please check out my Data Science blogs at [![Medium](PNG/Monogram.png) Medium](https://medium.com/@stereopickle).
 
 
 ---
 
 ### Connect with me! @stereopickle   
-[![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/stereopickle) [![LinkedIn](PNG/LI-In-Bug.png)](https://www.linkedin.com/in/stereopickle/) 
+[![LinkedIn](PNG/LI-In-Bug.png) LinkedIn](https://www.linkedin.com/in/stereopickle/)  
+[![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png) Twitter](https://twitter.com/stereopickle)  
 
 ---
 
